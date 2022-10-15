@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-/* main - provides statements for values of n
-/* betty style doc for function main goes there */
+/* 
+* more headers goes there 
+* main - provides statements for values of n
+* betty style doc for function main goes there 
+*/
 int main(void)
 {
 	int n;
