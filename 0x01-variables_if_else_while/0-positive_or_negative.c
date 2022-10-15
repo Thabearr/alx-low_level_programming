@@ -1,11 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h>
 /**
-* main - provides statements for values of n
-* Description : states values of n
-* betty style doc for function main goes there
-*/
+ * main - Determines if a number is positive, negative or zero.
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
