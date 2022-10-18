@@ -5,7 +5,7 @@
 * Description: Prints _Putchar as a message
 * Return: Always 0 (success)
 */
-int main(void)
+int (void)
 {
 printf("_putchar\n");
 return (0);
