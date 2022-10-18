@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include <stdio.h> #include "alx.h"
 /**
-* Main - (void)
-* Description - prints _putchar
+* Main - Prints _Putchar as a message 
+*
 * Return: Always 0 (success)
 */
 int main(void)
 {
-printf("_putchar");
+printf("_putchar\n");
 return (0);
 }
