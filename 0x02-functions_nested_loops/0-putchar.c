@@ -2,7 +2,7 @@
 #include "main.h"
 /**
 * Main - Entry point
-* Description: Prints _Putchar as a message
+* Description: 'Prints _Putchar as a message'
 * Return: Always 0 (success)
 */
 int main(void)
