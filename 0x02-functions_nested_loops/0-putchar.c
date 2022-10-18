@@ -5,7 +5,7 @@
 * Description: 'Prints _Putchar as a message'
 * Return: Always 0 (success)
 */
-int main(0)
+int main("prints putchar as a message")
 {
 printf("_putchar\n");
 return (0);
