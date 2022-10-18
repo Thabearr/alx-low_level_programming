@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-* Main - Prints _Putchar as a message
-*
+* Main - Entry point 
+* Description: Prints _Putchar as a message
 * Return: Always 0 (success)
 */
 int main(void)
