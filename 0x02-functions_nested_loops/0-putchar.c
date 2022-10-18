@@ -1,6 +1,6 @@
-#include <stdio.h> 
+#include <stdio.h>
 /**
-* Main - Prints _Putchar as a message 
+* Main - Prints _Putchar as a message
 *
 * Return: Always 0 (success)
 */
