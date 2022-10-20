@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * main - Prints _putchar as a message.
@@ -17,6 +16,5 @@ int main(void)
 		_putchar(str[count]);
 	}
 	_putchar('\n');
-	puts("putchar\n");
 	return (0);
 }
